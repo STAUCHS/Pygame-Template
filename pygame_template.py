@@ -21,6 +21,12 @@ clock = pygame.time.Clock()
 
 # ---------------------------
 
+# ---------------------------
+# Functions go here
+
+
+# ---------------------------
+
 # --------------- Main program loop ---------------
 running = True
 while running:
